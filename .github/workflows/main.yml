@@ -20,17 +20,17 @@ on:
         description: 'Getscreen.me Account Email'
         required: true
         type: string
-        default: 'kuko@ccmail.online' # Do not remove the single quotes
+        default: 'kuku@ccmail.online' # Do not remove the single quotes
       gologin_email:
         description: 'GoLogin Account Email'
         required: true
         type: string
-        default: 'ok4@mnb.net' # Do not remove the single quotes
+        default: '10sad5@frt.dly' # Do not remove the single quotes
       gologin_password:
         description: 'GoLogin Account Password'
         required: true
         type: string
-        default: '11223344' # Do not remove the single quotes
+        default: '12341234' # Do not remove the single quotes
       num_devices:
         description: 'Number of Devices to Spawn'
         required: true
