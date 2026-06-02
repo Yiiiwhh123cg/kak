@@ -16,7 +16,7 @@ on:
         description: 'Getscreen.me Account Email'
         required: true
         type: string
-        default: 'techx@ccmail.online'
+        default: 'kuko@ccmail.online'
       num_devices:
         description: 'Number of Devices'
         required: true
@@ -99,7 +99,7 @@ on:
         description: 'Use Without Proxy'
         required: true
         type: boolean
-        default: false
+        default: true
       proxy_country:
         description: 'Country Geotargeting'
         required: true
