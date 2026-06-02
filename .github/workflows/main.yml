@@ -25,7 +25,7 @@ on:
         description: 'GoLogin Account Email'
         required: true
         type: string
-        default: '2rad6@frt.dly' # Do not remove the single quotes
+        default: '3rad6@frt.dly' # Do not remove the single quotes
       gologin_password:
         description: 'GoLogin Account Password'
         required: true
