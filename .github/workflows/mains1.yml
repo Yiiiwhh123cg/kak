@@ -99,7 +99,7 @@ on:
         description: 'Use Without Proxy'
         required: true
         type: boolean
-        default: true
+        default: false
       proxy_country:
         description: 'Country Geotargeting'
         required: true
